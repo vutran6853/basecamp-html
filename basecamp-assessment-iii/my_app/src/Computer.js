@@ -9,7 +9,7 @@ class Computer extends Component {
                     <h1 className="Computer_title">Welcome to Computer Labs</h1> 
                 </header>
                 <p className="Computer_intro">
-                    This section will be display custom PC !!
+                    This section will be display custom PC !!!
                 </p>
                 
             </div>
